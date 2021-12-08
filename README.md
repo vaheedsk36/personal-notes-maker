@@ -12,3 +12,9 @@ Updates to be made in the project:
 1) Improving the search bar.
 2) Improving the UI
 
+ScreenShots:
+![10](https://user-images.githubusercontent.com/72762824/145305112-06cb5ef9-4c7c-422b-a1b9-59bd4330836c.PNG)
+
+
+![11](https://user-images.githubusercontent.com/72762824/145305115-c06a09a5-cbf3-4a86-a908-6fdac6adbde8.PNG)
+
