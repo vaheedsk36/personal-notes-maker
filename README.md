@@ -1,6 +1,7 @@
 # personal-notes-maker
 Description:
 This project is made using HTML5,CSS3,Bootstrap5.0,ES6.
+User can make multiple number of notes with title.
 
 Features:
 Once a note is created in the app it is stored in the browsers local storage.
