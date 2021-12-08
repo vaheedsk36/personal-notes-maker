@@ -13,6 +13,7 @@ Updates to be made in the project:
 2) Improving the UI
 
 ScreenShots:
+
 ![10](https://user-images.githubusercontent.com/72762824/145305112-06cb5ef9-4c7c-422b-a1b9-59bd4330836c.PNG)
 
 
